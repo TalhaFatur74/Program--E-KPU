@@ -1,6 +1,5 @@
 *PROJECT AKHIR PEMROGRAMAN DASAR PROGRAM E-KPU*
 
-- Kelompok 2
 - Ketua: Talha Fatur Rahman 2300644
 - Anggota 1: Andhika Pratama 2301647
 - Anggota 2: Fauzi Ramdani 2301825
